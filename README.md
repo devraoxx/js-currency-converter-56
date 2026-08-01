@@ -1,2 +1,4 @@
-# js-currency-converter-56
+# Js Currency Converter 56
+
 A basic exchange converter in JavaScript.
+
